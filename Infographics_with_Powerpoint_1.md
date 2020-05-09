@@ -72,6 +72,12 @@
 
 <br>
 
+### 도형 빼기란?
+
+<img width="469" alt="도형 빼기" src="https://user-images.githubusercontent.com/57430754/81923161-2e656580-9618-11ea-9155-30b7ec77b91b.PNG">
+
+<br>
+
 ## 도형 활용
 
 - [PrtSc] - [서식] - [자르기]: 캡처의 중요 부분만 잘라내기
