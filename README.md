@@ -1,2 +1,2 @@
-# -MS-office-Infographics-with-Powepoint
-Powepoint2013 for Infographics
+# [MS Office] Infographics_with_Powepoint
+Learningfit 1기
