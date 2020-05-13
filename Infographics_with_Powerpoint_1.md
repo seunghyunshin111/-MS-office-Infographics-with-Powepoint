@@ -65,7 +65,10 @@
 - [삽입] - [도형] - [직사각형 만들기]
 - [삽입] - [텍스트 상자]
 - 텍스트 [Ctrl + A] - [도형 빼기]
-- <img width="525" alt="도형 빼기 2" src="https://user-images.githubusercontent.com/57430754/81796918-09ee8800-9549-11ea-95d1-d89a0c8edd38.PNG">
+
+<br>
+
+<img width="525" alt="도형 빼기 2" src="https://user-images.githubusercontent.com/57430754/81796918-09ee8800-9549-11ea-95d1-d89a0c8edd38.PNG">
 
 <br>
 
@@ -83,8 +86,9 @@
 
 - 도형 채우기: [채우기]-[그림또는질감채우기]-[파일]
 
-- <img width="614" alt="캡처" src="https://user-images.githubusercontent.com/57430754/81796953-183ca400-9549-11ea-86be-73df85cf4a64.PNG">
-  <img width="632" alt="캡처2" src="https://user-images.githubusercontent.com/57430754/81796956-196dd100-9549-11ea-850d-b63084b9efc0.PNG">
+<br>
+
+<img width="632" alt="캡처2" src="https://user-images.githubusercontent.com/57430754/81796956-196dd100-9549-11ea-850d-b63084b9efc0.PNG">
 
 <br>
 
@@ -92,8 +96,21 @@
 
 <br>
 
+## 정리하기
+
 <img width="648" alt="1" src="https://user-images.githubusercontent.com/57430754/81796853-f6dbb800-9548-11ea-9cd1-7c22144d7f40.PNG">
+
+<br>
+
 <img width="650" alt="2" src="https://user-images.githubusercontent.com/57430754/81796860-f8a57b80-9548-11ea-973a-53714df5022f.PNG">
+
+<br>
+
 <img width="649" alt="3" src="https://user-images.githubusercontent.com/57430754/81796867-fa6f3f00-9548-11ea-8364-e557c2975564.PNG">
-<img width="653" alt="4" src="https://user-images.githubusercontent.com/57430754/81796875-fcd19900-9548-11ea-974d-2e38a5c081ee.PNG">
+
+<br>
+
+<img width="653" alt="4" src="https://user-images.githubusercontent.com/57430754/81796875-fcd19900-9548-11ea-974d-2e38a5c081ee.PNG"><br>
+
+
 
