@@ -17,7 +17,9 @@
 
 ## 레이아웃 아이디어 Site
 
-- Graphicriver (Presentations 템플릿 참고) *색 조합, 레이아웃 아이디어
+- Graphicriver (Presentations 템플릿 참고)
+
+  *색 조합, 레이아웃 아이디어
 
 ## 정리하기
 
